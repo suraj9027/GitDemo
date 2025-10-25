@@ -1,0 +1,6 @@
+* MERN
+
+M - MongoDB
+E - ExpressJs
+R -ReactJs
+N -NodeJs
